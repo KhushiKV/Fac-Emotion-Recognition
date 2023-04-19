@@ -1,6 +1,6 @@
 # Face-Emotion-Recognition
 
-## The project had been created under CS-354N Computer Science Course, under the supervision of Dr. Aruna Tiwari. The team members are - Khushi Verma (200001036) and Sanskar Verma (200001069).
+### The project had been created under CS-354N Computer Science Course, under the supervision of Dr. Aruna Tiwari. The team members are - Khushi Verma (200001036) and Sanskar Verma (200001069).
 
 ## The steps to completely build our model from scratch including the data preprocessing, training, and testing are:
 1. Download the Face-Emotion-Recognition.ipynb file.
